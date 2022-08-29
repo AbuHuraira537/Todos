@@ -6,6 +6,8 @@
   Complete Data structures and implement them in C# 
   In paralell Read about Identity Framework in .NET
   
+  /n
+  
 2- Task (Oct 2022 Goal)
   Complete Design Patterns in C#
 
