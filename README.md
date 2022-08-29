@@ -5,6 +5,7 @@
 1- Task (September 2022
   Complete Data structures and implement them in C# 
   In paralell Read about Identity Framework in .NET
+  
 2- Task (Oct 2022 Goal)
   Complete Design Patterns in C#
 
